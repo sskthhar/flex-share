@@ -1,2 +1,2 @@
-# share atrget picker
+# share target picker
 Link liff share
